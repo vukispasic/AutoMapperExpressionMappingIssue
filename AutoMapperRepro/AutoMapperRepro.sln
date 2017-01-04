@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmmitedDatabaseModel3", "Om
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmmitedDTOModel3", "OmmitedDTOModel3\OmmitedDTOModel3.csproj", "{637F1FBD-0EB3-4F5B-91AA-F41CA9A04112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper511", "AutoMapper511\AutoMapper511.csproj", "{21250848-B600-4847-A6F0-5FE7EA03889A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapper520", "AutoMapper520\AutoMapper520.csproj", "{4E0C4E46-9A11-442B-B422-114C56C2CA2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{637F1FBD-0EB3-4F5B-91AA-F41CA9A04112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{637F1FBD-0EB3-4F5B-91AA-F41CA9A04112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{637F1FBD-0EB3-4F5B-91AA-F41CA9A04112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21250848-B600-4847-A6F0-5FE7EA03889A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21250848-B600-4847-A6F0-5FE7EA03889A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21250848-B600-4847-A6F0-5FE7EA03889A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21250848-B600-4847-A6F0-5FE7EA03889A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0C4E46-9A11-442B-B422-114C56C2CA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0C4E46-9A11-442B-B422-114C56C2CA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0C4E46-9A11-442B-B422-114C56C2CA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0C4E46-9A11-442B-B422-114C56C2CA2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

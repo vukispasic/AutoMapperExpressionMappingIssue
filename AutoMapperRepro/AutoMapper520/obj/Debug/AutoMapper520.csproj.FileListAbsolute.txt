@@ -1,0 +1,12 @@
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\AutoMapper520.exe.config
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\AutoMapper520.exe
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\AutoMapper520.pdb
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\AutoMapper.dll
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\OmmitedDatabaseModel3.dll
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\OmmitedDTOModel3.dll
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\OmmitedDatabaseModel3.pdb
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\OmmitedDTOModel3.pdb
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\bin\Debug\AutoMapper.xml
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\obj\Debug\AutoMapper520.csprojResolveAssemblyReference.cache
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\obj\Debug\AutoMapper520.exe
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper520\obj\Debug\AutoMapper520.pdb

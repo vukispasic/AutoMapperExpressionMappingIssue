@@ -1,0 +1,12 @@
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\AutoMapper511.exe.config
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\AutoMapper511.exe
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\AutoMapper511.pdb
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\AutoMapper.dll
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\OmmitedDatabaseModel3.dll
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\OmmitedDTOModel3.dll
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\OmmitedDatabaseModel3.pdb
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\OmmitedDTOModel3.pdb
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\bin\Debug\AutoMapper.xml
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\obj\Debug\AutoMapper511.csprojResolveAssemblyReference.cache
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\obj\Debug\AutoMapper511.exe
+E:\Repositories\AutoMapperExpressionMappingIssue\AutoMapperRepro\AutoMapper511\obj\Debug\AutoMapper511.pdb
