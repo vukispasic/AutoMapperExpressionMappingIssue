@@ -1,1 +1,2 @@
 # AutoMapperExpressionMappingIssue
+Starting from AutoMapper version 5.2.0 we can't execute mapped queries anymore. Exception is "Additional information: variable 'r' of type 'OmmitedDTOModel3.EntityDTO1' referenced from scope '', but it is not defined". In production code we are using EF so execution of EF query results in exception "The parameter 'r' was not bound in the specified LINQ to Entities query expression". AutoMapper 5.1.1 works fine, as well as versions 4
