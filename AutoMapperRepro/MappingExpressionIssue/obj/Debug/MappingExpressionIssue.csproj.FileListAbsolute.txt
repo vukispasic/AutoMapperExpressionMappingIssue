@@ -1,6 +1,0 @@
-E:\Repositories\AutoMapperReproGit\AutoMapperRepro\MappingExpressionIssue\bin\Debug\MappingExpressionIssue.exe
-E:\Repositories\AutoMapperReproGit\AutoMapperRepro\MappingExpressionIssue\bin\Debug\MappingExpressionIssue.pdb
-E:\Repositories\AutoMapperReproGit\AutoMapperRepro\MappingExpressionIssue\bin\Debug\AutoMapper.dll
-E:\Repositories\AutoMapperReproGit\AutoMapperRepro\MappingExpressionIssue\bin\Debug\AutoMapper.xml
-E:\Repositories\AutoMapperReproGit\AutoMapperRepro\MappingExpressionIssue\obj\Debug\MappingExpressionIssue.exe
-E:\Repositories\AutoMapperReproGit\AutoMapperRepro\MappingExpressionIssue\obj\Debug\MappingExpressionIssue.pdb
